@@ -1,6 +1,6 @@
 {
   "name": "refractor",
-  "version": "3.3.1",
+  "version": "3.3.2",
   "description": "Lightweight, robust, elegant virtual syntax highlighting using Prism",
   "license": "MIT",
   "keywords": [
@@ -37,7 +37,7 @@
   "dependencies": {
     "hastscript": "^6.0.0",
     "parse-entities": "^2.0.0",
-    "prismjs": "~1.23.0"
+    "prismjs": "https://github.com:nanicalabs/prism.git#8a3be5bceede7c3dea1bcc9deecb7e7054bc0b7e"
   },
   "devDependencies": {
     "@babel/core": "^7.0.0",
